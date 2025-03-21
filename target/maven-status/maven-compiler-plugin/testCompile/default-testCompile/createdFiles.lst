@@ -1,0 +1,16 @@
+RestAssuredDay4\SerialAndDeSerial.class
+RestAssuredDay2\DifferentWaysToCreateRequestBody.class
+RestAssuredDay2\Post_pojo.class
+RestAssuredDay3\HeadersDemo.class
+RestAssuredDay4\FakerDataGenerator.class
+RestAssuredDay3\CookieDemo.class
+RestAssuredDay3\PathAndQueryParameters.class
+APIChaining\DeleteUser.class
+RestAssuredDay3\LoggingDemo.class
+RestAssuredDay1\HTTPRequests.class
+APIChaining\CreateUser.class
+RestAssuredDay3\ParsingJSONResponseData.class
+RestAssuredDay4\JsonSchema.class
+APIChaining\UpdateUser.class
+RestAssuredDay4\Pojo_user.class
+APIChaining\GetUser.class
